@@ -35,4 +35,6 @@ Grappler Jr. Grappler arm w/ Service Bay, integrated external command seat. Serv
 
 
 Required Dependancies:
+
+
 ModuleManager: https://forum.kerbalspaceprogram.com/index.php?/topic/50533-131-module-manager-301-dec-6th-2017-early-christmas-gift/
