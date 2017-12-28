@@ -32,9 +32,14 @@ Grappler Jr. Grappler arm w/ Service Bay, integrated external command seat. Serv
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
+With attribution to the original author Nli2work and his mod "Orbital Utility Vehicle".
+
+Which can be found here: https://forum.kerbalspaceprogram.com/index.php?/topic/133162-112-orbital-utility-vehicle-v124/&
+
+
+
 
 
 Required Dependancies:
-
 
 ModuleManager: https://forum.kerbalspaceprogram.com/index.php?/topic/50533-131-module-manager-301-dec-6th-2017-early-christmas-gift/
