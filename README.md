@@ -1,9 +1,6 @@
 # Orbital-Utility-Vehicle---Continued
-A continuation of _Nli2work's_ great KSP mod.
-
 
 <img src="Images/Nli2work_oldpic.jpg">
-
 
 ## Do not use any grappler parts as vessel Root. 
 
@@ -33,7 +30,7 @@ A continuation of _Nli2work's_ great KSP mod.
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
-With attribution to the original author Nli2work and his mod "Orbital Utility Vehicle".
+With attribution to the original author **_Nli2work_** for his mod "_Orbital Utility Vehicle_".
 
 Which can be found here: https://forum.kerbalspaceprogram.com/index.php?/topic/133162-112-orbital-utility-vehicle-v124/&
 
