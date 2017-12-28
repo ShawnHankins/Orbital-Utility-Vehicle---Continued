@@ -1,11 +1,11 @@
 # Orbital-Utility-Vehicle---Continued
-A continuation of Nli2work's great KSP mod.
+A continuation of _Nli2work's_ great KSP mod.
 
 
 <img src="Images/Nli2work_oldpic.jpg">
 
 
-# Do not use any grappler parts as vessel Root. 
+## Do not use any grappler parts as vessel Root. 
 
 **Command Pod**, roughly same size as Mk1; will work on IVA when I get my hands on the new PartTools. Now has data transmitter built-in. Two variants depending on other active mods.
 
