@@ -8,6 +8,7 @@
 
 - **KAS**: adds front mounted winch unit w 30 meter cable. Size slightly reduced, Increased ejection force. No more harpoon bouncing off of asteroids.
 - **SCANSat**: adds small SCANSat network uplink unit w/ BTDT scanner.
+- **FStextureSwitch2**: for some visual customization options.
 
 **Advanced Drone Unit**, derived from the Command Pod. Crew space converted to service bay. More EC and Mono capacity. Integrated RCS thrusters. One variant available
 
